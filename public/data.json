@@ -1,0 +1,52 @@
+[
+    {
+        "playername": "Shakib Al Hasan",
+        "playercountry": "Bangladesh",
+        "playertype": "All-rounder",
+        "rating": 92,
+        "battingstyle": "Left-hand bat",
+        "bowlingstyle": "Left-arm orthodox spin",
+        "price": 150000,
+        "playerimg": "https://i.ibb.co.com/4ZZWSC94/sakib.jpg"
+    },
+    {
+        "playername": "Tamim Iqbal",
+        "playercountry": "Bangladesh",
+        "playertype": "Batsman",
+        "rating": 85,
+        "battingstyle": "Left-hand bat",
+        "bowlingstyle": "Right-arm offbreak",
+        "price": 120000,
+        "playerimg": "https://i.ibb.co.com/M5hzmVK5/tamim.jpg"
+    },
+    {
+        "playername": "Mashrafe Mortaza",
+        "playercountry": "Bangladesh",
+        "playertype": "Bowler",
+        "rating": 80,
+        "battingstyle": "Right-hand bat",
+        "bowlingstyle": "Right-arm medium-fast",
+        "price": 100000,
+        "playerimg": "https://i.ibb.co.com/xKy6Dk6z/mashrafi.png"
+    },
+    {
+        "playername": "AB de Villiers",
+        "playercountry": "South Africa",
+        "playertype": "Batsman",
+        "rating": 95,
+        "battingstyle": "Right-hand bat",
+        "bowlingstyle": "Wicketkeeper",
+        "price": 200000,
+        "playerimg": "https://upload.wikimedia.org/wikipedia/commons/4/4c/AB_de_villiers_%28cropped%29.jpg"
+    },
+    {
+        "playername": "Lasith Malinga",
+        "playercountry": "Sri Lanka",
+        "playertype": "Bowler",
+        "rating": 88,
+        "battingstyle": "Right-hand bat",
+        "bowlingstyle": "Right-arm fast",
+        "price": 130000,
+        "playerimg": "https://i.ibb.co.com/C38DDP5n/malinga.jpg"
+    }
+]
