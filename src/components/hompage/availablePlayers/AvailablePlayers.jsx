@@ -3,14 +3,14 @@ import React from 'react';
 import Card from '../../ui/Card';
 
 const AvailablePlayers = ({ players }) => {
-    console.log(players)
+    // console.log(players)
 
     return (
         <div>
             <div className='grid grid-cols-1 lg:grid-cols-3 md:grid-cols-2'>
                 {
                     players.map(player => {
-                        console.log(player, 'player');
+                        // console.log(player, 'player');
                         return <Card player={player}></Card>
                     })
                 }
